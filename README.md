@@ -5,9 +5,8 @@
 
 
 - 🔭 I’m currently working on Web Development Technology
-- 🌱 I’m currently learning more on Observability and better Web Development Practices
-- 💬 Ask me about **Go, Git and Web**
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🌱 Adding new Frameworks and Library in my Code base
+
 
 -------
 
