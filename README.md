@@ -4,7 +4,7 @@
 </p>
 
 
-- 🔭 I’m currently working on Web Development Technology
+- 🔭 I'm currently looking for working as Machine Learning Engineer
 - 🌱 Adding new Frameworks and Library in my Code base
 
 -------
